@@ -6,7 +6,7 @@ using Microsoft.AspNet.Membership.OpenAuth;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace ASPSite2
+namespace Aspsite3
 {
     public static class RouteConfig
     {
